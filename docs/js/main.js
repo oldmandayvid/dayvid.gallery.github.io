@@ -138,7 +138,7 @@
         var map = new google.maps.Map(document.getElementById('google-map'), mapOptions);
         
         var infowindow = new google.maps.InfoWindow({
-            content: 'Hats & Scarves at The Shoppe!!!',
+            content: 'Hats & Scarves at The Shoppe!!! 7352 US-14, Arena, WI 53503',
             map: map,
             position: myLatlng
         })
